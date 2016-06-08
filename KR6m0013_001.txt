@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:15.188396
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:30
 #+TITLE: 百論疏
 #+PROPERTY: CBETA_ID T42n1827
 #+PROPERTY: ID KR6m0013
@@ -12,7 +12,7 @@
 ¶
 No.1827[cf.No.1569]¶
 
-百論序疏
+* 百論序疏
 :PROPERTIES:
 :head: 百論序疏
 :END:
@@ -583,7 +583,7 @@ No.1827[cf.No.1569]¶
 ¶
 釋吉藏撰¶
 
-1捨罪福品(上之上-上之下)
+* 1捨罪福品(上之上-上之下)
 :PROPERTIES:
 :head: 釋捨罪福品第一
 :END:
